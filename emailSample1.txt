@@ -1,0 +1,14 @@
+Assignment 1
+
+1) Prove - Associative, Distributive and DeMorgan's laws with respect to sets.
+2) f(x)=4x-1, g(x)=x^2+1, Find f(g(3))
+3) Prove that for all integers, n<2^n
+4) Prove 1+2+3+...+n=n*(n+1)/2
+5) From 7 teachers and 4 students, how can a committee be formed of 6 members having a) exactly 2 students?
+            b) atleast 2 students?
+
+CO1 - Q1,2
+CO2 - Q3,4
+CO3 - Q4
+
+Need the solution by next/coming Monday.. May be hard copy or by email
